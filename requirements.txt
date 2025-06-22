@@ -8,3 +8,4 @@ pandas_datareader
 transformers==4.40.0
 sentencepiece
 torch
+ta
